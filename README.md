@@ -10,6 +10,6 @@ sudo apt install inkscape
 rename.sh : help remove the space and "-", You can custom it like you want.
 stroke.sh : This file help you convert all the SVG file in your folder using Path
 
-The files SVG after convert can be used to create the Font with Icomoon App
+The files SVG after convert can be used to create the Font with Icomoon App (https://icomoon.io/app)
 
 Thank you!
